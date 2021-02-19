@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "my-inframinds-sustainability",
+  "private_key_id": "c2a838bc93a04d7b02f600054f280b4e98a9c783",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDdOk387+D/hxN+\nHdoKJbIJb7OATDCy4nOKciHPwx1Kn68tfIfwnJD+EewKrlAYdhwZfv+DSKCtEKs/\nnRZOsfTUIMYRLlQ0ioRdwh793E5J/0qom+QGBmC+xLFRNjbqRxo8ydglMQ0jXgw+\n85vct9+Xphu+qESXd+GoC9TkSXEHohdQuzDOge/9fdz1Qz9HmmWDom2bR5DFINqP\nrDeVNREz+VOwemNqsL4nfuGbom2s4OdK2UF9egG/lv3fenlFsPfv1+aVmsPoHAfe\nCLEPdJzs11xDB5sDSFPtKvFAQIZEFNgj3BBes2jpKRahXax9erWubuHY0WEFS6zT\nfvBRCv6xAgMBAAECggEAPNa28dNqNfuIscs11kqNjqjIXYUWc2txSOagQ8mtuYL2\novS3UcVM3oJBPqK3ZjK9AYn6bLlBbrbB0Ym6w8OOx/OHZNwvzg813a7v5PJ8GT96\n4amVaM7CNlRTSzk0mvMY1RTRO1ElAs/vYDSQbX+nnsXQpXsS+fC+/v7Z+jn0Opum\n3xg3RxaeQVu9xdhS1CNnI0otRXY7zKLS0gE+cuI7cjXGlWDv6oDiQBzafzHGyCQY\nw3yv79HYbe16Muhw+41nMc/CyralPNrsk+hI/J9E8ajtn+M9DxF6ggIBg+fcD6Tt\nG4S7/G4aTrGLxN7R67AfSyQ6tNkxn0HvPAkyUDchPQKBgQD8JkxBHARCQi2EH87h\nD7iRPYYdRLSvjIQMWFxkBFuvRsH/FzdFko1OeL20imVc82FbtPMPI6gLb1G2W4Or\nlz05A+NKDUy7zLJgkgbNEwFSKbY6eB3o5RjEi+vpb/7cC3AnmN7UsY0Ap9ucdv8n\nIg0jp9DWJq/ztDpUeMCPBb42HwKBgQDgmyCRMXZt/5QkJH+1IF8BecCMK73FuVIr\nvPT/yAISj+uuuKj0ocvmah55VAz0232D8x03nQXRVFHylXf2btrimWqRVTiDYIqo\nWbO6IMfehzfs7XzO4HYhxjrY2yjvpMPQdAJeKVljryxYxAyGFqpdNhu9W/hXl5yJ\nvhEOl5kRLwKBgQCQT0rtKJ+3XDC4oYvBe0Hivhd3wM64ee9JMXkPNP9UPWbiG+Ni\nShHdi3TnUx3YKOLbnaBOVdXjVX6qo42kMxay/uqigyIbiXe9lVWXIP1sjLrik8Rq\nelPGiV4naBWw0ksKHo/JoyRT773cuq4lM3PZqD35koK5M7j+h22NbXgDeQKBgEGN\nJMEbVXwfBmZR/K+pJfExTn/aWEV3o8K+ICbygaBXPqq8nBrhibfSqtgwLqPb11MG\nRjWv7z27xTruYpeanOlbax3FaHv3ViByJaEh5hNNFYZhfXaHThLnXs9hjx350Whq\nIzLGEJ+mRWQWu6z6unf/zbLDP8SYrAgLX8EJf5PjAoGAYyCFM+mriOk6Ukr7/us8\n72pOnIrSUcxe1UbId55drxY5qV/vVxVXv0+kw9QUw4Ctcd2B4zKSkQm3LhNigH7B\n8Lra9usKjOVNIDL1uzngR6M1KTMqU7KLHc3riiaiAoF4KJYv4WBeru1eWccw/hqH\n7RxP0cDbYb1bCvSzX6ttIQ4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-2ji3k@my-inframinds-sustainability.iam.gserviceaccount.com",
+  "client_id": "101684948067497618561",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-2ji3k%40my-inframinds-sustainability.iam.gserviceaccount.com"
+}
